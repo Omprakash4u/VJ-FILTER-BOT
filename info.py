@@ -103,7 +103,7 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/batvndownload')
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.zipshort.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'd04fcb1eda41a26446ce83e6c11c7e5e33eb197c)
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd04fcb1eda41a26446ce83e6c11c7e5e33eb197c')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
